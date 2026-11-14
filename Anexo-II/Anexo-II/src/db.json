@@ -1,0 +1,24 @@
+{
+  "tareas": [
+    {
+      "texto": "Aprender Fetching Data",
+      "hecha": true,
+      "id": "q5bGn7uLAvc"
+    },
+    {
+      "texto": "Aprender Fetching Data",
+      "hecha": false,
+      "id": "BvCypCY11gE"
+    },
+    {
+      "texto": "Aprender Fetching Data",
+      "hecha": false,
+      "id": "GsS4ZCn5v_E"
+    },
+    {
+      "hecha": true,
+      "id": "Q2HlcbCH3Ik"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

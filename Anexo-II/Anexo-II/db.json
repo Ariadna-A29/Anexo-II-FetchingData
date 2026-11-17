@@ -1,0 +1,30 @@
+{
+  "tareas": [
+    {
+      "id": "1",
+      "texto": "Estudiar React",
+      "hecha": false
+    },
+    {
+      "id": "2",
+      "texto": "Practicar Fetch",
+      "hecha": true
+    },
+    {
+      "id": "3",
+      "texto": "Practicar métodos HTTP",
+      "hecha": false
+    }
+  ],
+  "notas": [
+    {
+      "id": "1",
+      "texto": "Mi primera nota"
+    },
+    {
+      "id": "2",
+      "texto": "Practicar POST y DELETE"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

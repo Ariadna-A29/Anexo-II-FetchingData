@@ -1,7 +1,6 @@
-
 import { useState, useEffect } from "react";
 
-const URL = "http://localhost:5174/notas";
+const URL = "http://localhost:3000/notas";
 
 export default function Notas() {
   const [notas, setNotas] = useState([]);

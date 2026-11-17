@@ -1,5 +1,5 @@
-import BuscadorPokemon from "./ejercicios//BuscadorPokemon";
-import Notas from "./ejercicios/Anexo/componentes/Notas";
+import BuscadorPokemon from "../../../Anexo-FetchingData/src/components/BuscadorPokemon";
+import Notas from "./components/Notas";
 
 function App() {
   return (
@@ -8,7 +8,7 @@ function App() {
 
       <section>
         <h2>Ejercicio: Perfil de GitHub</h2>
-        <PerfilGitHub />
+        {/*<PerfilGitHub />*/}
       </section>
 
       <hr />
